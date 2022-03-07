@@ -1,0 +1,25 @@
+.title{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-color:black;
+}
+
+.recipe {
+    color:white;
+    background-color:rgb(200,155,155);
+}
+
+.img {
+    width: 300px;
+    height: auto;
+}
+
+.heading{
+    color:white;
+    background-color:black;
+}
+
+div {
+    background-color:orange;
+}
